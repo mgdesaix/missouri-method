@@ -1,0 +1,13 @@
+Pop1 Pop12 f1b 1 125
+Pop1 Pop3 full 1 500
+Pop1 Pop4 full 1 500 
+Pop1 Pop5 full 1 500
+Pop12 Pop5 f1b 1 125
+Pop12 Pop9 full 1 500
+Pop14 Pop2 f1b 1 125
+Pop2 Pop12 full 1 500
+Pop2 Pop14 full 1 500
+Pop2 Pop3 full 1 500
+Pop3 Pop2 full 1 500
+Pop3 Pop7 full 1 500
+Pop4 Pop14 full 1 500

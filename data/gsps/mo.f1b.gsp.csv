@@ -1,0 +1,8 @@
+ind,par1,par2,ipar1,ipar2,hap1,hap2,hpop1,hpop2,sample,osample
+1,NA,NA,NA,NA,1a,1b,p1,p1,NA,NA
+2,NA,NA,NA,NA,2a,2b,p2,p2,NA,NA
+3,NA,NA,NA,NA,3a,3b,p1,p1,NA,NA
+4,NA,NA,NA,NA,4a,4b,p1,p1,NA,NA
+5,1,2,2,2,NA,NA,NA,NA,NA,NA
+6,3,5,2,2,NA,NA,NA,NA,s6,2
+7,4,5,2,2,NA,NA,NA,NA,s7,2

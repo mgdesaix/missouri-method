@@ -1,0 +1,4 @@
+ind,par1,par2,ipar1,ipar2,hap1,hap2,hpop1,hpop2,sample,osample
+1,NA,NA,NA,NA,1a,1b,p1,p1,NA,NA
+2,NA,NA,NA,NA,2a,2b,p2,p2,NA,NA
+3,1,2,2,2,NA,NA,NA,NA,s3,2
