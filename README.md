@@ -3,7 +3,7 @@ Analysis scripts for Missouri method workflow with supervised admixture
 
 April 23, 2025
 Matt DeSaix
-The majority of scripts relevant to the analyses I did are in the `./hpc/` directory, which is all the scripts and data pulled from the NBAF HPC where simulations were run. Files of the same name but different suffixes (i.e., .sh and .R) refer to bash scripts that were submitted on the server and they subsequently run the corresponding R script.
+Files of the same name but different suffixes (i.e., .sh and .R) refer to bash scripts that were submitted on the server and they subsequently run the corresponding R script.
 
 Scripts:
 
